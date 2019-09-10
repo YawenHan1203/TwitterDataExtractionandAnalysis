@@ -25,7 +25,7 @@ Table 2 lists some column metrics of Table 1, and provides some basic informatio
 
 The Bitcoin market dataset contains 21,600 records with 8 attributes, gathering btc market data in each minute from 8/10/2019 to 8/25/2019 (15 days in total). In this project, the “Close” price was used as the price for each minute when performing the analysis. Part of the btc market dataset is shown below in Table 3.
 
-![Table 3. Part of the BTC Market Dataset!](Demo/01twitter_dataset.jpg)
+![Table 3. Part of the BTC Market Dataset!](Demo/03btc_dataset.jpg)
 
 1) Top 10 Languages
 
@@ -127,5 +127,5 @@ To further dive into the topic, some futures works can be considered to improve 
 
 ## Reference
 * _An Introduction to Text Mining using Twitter Streaming API and Python._ 21 July 2014, accessed 25 August 2019, http://adilmoujahid.com/posts/2014/07/twitter-analytics/.
-* _Extracting Twitter Data, Pre-Processing and Sentiment Analysis using Python 3.0._ Apr 2019, accessed 25 August 2019, https://towardsdatascience.com/extracting-twitter-data-pre-processing-and- sentiment-analysis-using-python-3-0-7192bd8b47cf.
-* _Analyzing Tweets with NLP in minutes with Spark, Optimus and Twint._ 5 May 2018, assessed accessed 25 August 2019, https://towardsdatascience.com/analyzing-tweets-with-nlp-in-minutes-with- spark-optimus-and-twint-a0c96084995f
+* _Extracting Twitter Data, Pre-Processing and Sentiment Analysis using Python 3.0._ Apr 2019, accessed 25 August 2019, https://towardsdatascience.com/extracting-twitter-data-pre-processing-and-sentiment-analysis-using-python-3-0-7192bd8b47cf.
+* _Analyzing Tweets with NLP in minutes with Spark, Optimus and Twint._ 5 May 2018, assessed accessed 25 August 2019, https://towardsdatascience.com/analyzing-tweets-with-nlp-in-minutes-with-spark-optimus-and-twint-a0c96084995f
