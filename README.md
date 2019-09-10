@@ -17,11 +17,11 @@ Twitter’s REST, streaming, and Enterprise API enable programmatic analysis of 
 
 The project mainly performed analysis on two datasets: Twitter dataset and Bitcoin market dataset. The Twitter dataset contains around 2 million records with 31 attributes, gathering all the tweets with keywords “bitcoin” or “btc” from 8/10/2019 to 8/25/2019 (15 days in total). The twitter data was collected through Twitter Search API with results in JSON format. The Twitter dataset contains informed attributes, like “created_at”, “full_text”, “retweet_count”, “favorited_count”, “lang”, “place”, etc. Part of the twitter dataset is shown below in Table 1, and the attributes we used in this project are summarized in Table 2.
 
-Table 1. Part of the Twitter Dataset
+![Table 1. Part of the Twitter Dataset](Demo/01update-interface.gif)
 
 Table 2 lists some column metrics of Table 1, and provides some basic information of each attribute.
   
-Table 2. Twitter Dataset Attributes Summary(*only the attributes used in this project)*
+![Table 2. Twitter Dataset Attributes Summary(*only the attributes used in this project)*]()
 
 The Bitcoin market dataset contains 21,600 records with 8 attributes, gathering btc market data in each minute from 8/10/2019 to 8/25/2019 (15 days in total). In this project, the “Close” price was used as the price for each minute when performing the analysis. Part of the btc market dataset is shown below in Table 3.
 
